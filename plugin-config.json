@@ -2,15 +2,48 @@
   "schema": 1,
   "feedbackUrl": "https://designhub-api.ahmedd-hamed97.workers.dev/api/feedback",
   "latest": {
-    "version": "1.12.4",
-    "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+    "version": "1.12.5",
+    "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/tag/v1.12.5",
     "force": false,
     "notes": {
-      "ar": "إصدار رسمي v1.12.4 يتضمن التحديث التلقائي للإضافة من داخل فوتوشوب مع التحقق من التوقيع الرقمي للتحديثات، وإعادة إظهار شريط التنبيه بالتحديثات في نسخة UXP.",
-      "en": "Official release of Design Hub v1.12.4 with automatic in-plugin updates verified by digital signature, and the update notice bar restored for UXP."
+      "ar": "إصدار رسمي v1.12.5: نقل إعدادات الإضافة وتحديثاتها إلى خادم Design Hub الجديد. تحديث موقّع يتم تثبيته تلقائياً من داخل فوتوشوب.",
+      "en": "Official release v1.12.5: moves panel config and updates to the new Design Hub server. Signed update installs automatically inside Photoshop."
+    },
+    "auto": {
+      "cep": {
+        "manifest": "https://designhub-api.ahmedd-hamed97.workers.dev/api/updates/manifest"
+      }
     }
   },
   "updates": [
+    {
+      "id": "v1-12-5",
+      "version": "1.12.5",
+      "date": "2026-11-20",
+      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/tag/v1.12.5",
+      "title": {
+        "ar": "تحديث Design Hub v1.12.5",
+        "en": "Design Hub Update v1.12.5"
+      },
+      "summary": {
+        "ar": "إصدار رسمي v1.12.5: نقل إعدادات الإضافة وتحديثاتها إلى خادم Design Hub الجديد. تحديث موقّع يتم تثبيته تلقائياً من داخل فوتوشوب.",
+        "en": "Official release v1.12.5: moves panel config and updates to the new Design Hub server. Signed update installs automatically inside Photoshop."
+      },
+      "features": [
+        {
+          "ar": "نقل إعدادات الإضافة وفحص التحديثات إلى خادم Design Hub الجديد",
+          "en": "Panel config and update checks moved to the new Design Hub server"
+        },
+        {
+          "ar": "التحديثات الموقّعة تُخدم الآن من الخادم مباشرة مع التحقق من التوقيع الرقمي قبل التثبيت",
+          "en": "Signed updates now served directly from the server with digital signature verification before install"
+        }
+      ],
+      "details": {
+        "ar": "لا يتغير أي شيء في طريقة استخدام الإضافة؛ هذا تحديث بنية تحتية يجهّز التحديثات المستقبلية، وهو متاح الآن لجميع المستخدمين.",
+        "en": "Nothing changes in how you use the panel; this is an infrastructure update that prepares future updates, and it is now available to everyone."
+      }
+    },
     {
       "id": "v1-12-4",
       "version": "1.12.4",
