@@ -1,9 +1,0 @@
-{
-  "version": "1.12.5",
-  "defaultLang": "ar",
-  "defaultTheme": "dark",
-  "remoteUrl": "https://raw.githubusercontent.com/Design-Hub-AH/designhub-releases/main/plugin-config-test.json",
-  "fx": "lite",
-  "handle": "@ahmed_hamed13",
-  "feedbackUrl": "https://designhub-api.ahmedd-hamed97.workers.dev/api/feedback"
-}
