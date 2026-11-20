@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "_help": "Add real updates at the TOP of the list (newest first). Every field except id is optional. Remote config key \"updates\" overrides this file.",
+  "updates": [
+    {
+      "id": "v1-12-5-pilot",
+      "version": "1.12.5",
+      "date": "2026-11-20",
+      "title": {
+        "ar": "تحديث تجريبي v1.12.5",
+        "en": "Test update v1.12.5"
+      },
+      "summary": {
+        "ar": "هذا تحديث تجريبي لتأكيد أن التحديث التلقائي يعمل: لو ظهرت هذه الصفحة والإصدار 1.12.5 في الأسفل، فالتحديث نزل وثبّت نفسه بنجاح.",
+        "en": "This is a test update proving auto-update works: if you see this page and version 1.12.5 below, the update downloaded and installed itself."
+      },
+      "features": [
+        {
+          "ar": "تأكيد عمل التحديث التلقائي من داخل البلاجن",
+          "en": "Confirmed in-plugin auto-update"
+        }
+      ]
+    }
+  ],
+  "_example_entry_not_shown": {
+    "id": "v1-12-0",
+    "version": "1.12.0",
+    "date": "YYYY-MM-DD",
+    "title": {
+      "ar": "",
+      "en": ""
+    },
+    "summary": {
+      "ar": "",
+      "en": ""
+    },
+    "features": [
+      {
+        "ar": "",
+        "en": ""
+      }
+    ],
+    "fixes": [
+      {
+        "ar": "",
+        "en": ""
+      }
+    ],
+    "details": {
+      "ar": "",
+      "en": ""
+    }
+  }
+}
