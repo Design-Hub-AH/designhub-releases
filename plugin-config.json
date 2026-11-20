@@ -2,15 +2,47 @@
   "schema": 1,
   "feedbackUrl": "https://designhub-api.ahmedd-hamed97.workers.dev/api/feedback",
   "latest": {
-    "version": "1.12.2",
+    "version": "1.12.3",
     "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
     "force": false,
     "notes": {
-      "ar": "إصدار رسمي v1.12.2 يتضمن إضافة باقة شراء البرنامج للأبد (Lifetime License)، وإعادة تصميم شاشة الباقات والعروض الترويجية والخصومات، وتحسين محاذاة تسجيل الدخول وتفعيل نظام التقييمات والاقتراحات.",
-      "en": "Official release of Design Hub v1.12.2 featuring the new Lifetime License package, redesigned plans with promotional discounts, improved Arabic auth UI alignment, and integrated customer feedback."
+      "ar": "إصدار رسمي v1.12.3 يتضمن استوديو تصميم المنتجات الإعلانية مع مساعد ذكي يفهم العربي واللهجة المصرية، ومعاينة ثلاثية الأبعاد للتصميم قبل إنشاء البرومبت.",
+      "en": "Official release of Design Hub v1.12.3 featuring the new Product Advertising Design studio with an Arabic-speaking design assistant and 3D preview before prompt generation."
     }
   },
   "updates": [
+    {
+      "id": "v1-12-3",
+      "version": "1.12.3",
+      "date": "2026-11-20",
+      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "title": {
+        "ar": "تحديث Design Hub v1.12.3",
+        "en": "Design Hub Update v1.12.3"
+      },
+      "summary": {
+        "ar": "إضافة استوديو تصميم المنتجات الإعلانية مع مساعد ذكي بالعربي ومعاينة ثلاثية الأبعاد.",
+        "en": "New Product Advertising Design studio with an Arabic design assistant and 3D preview."
+      },
+      "features": [
+        {
+          "ar": "إضافة أداة تصميم المنتجات (Product Design) داخل قائمة التصميم: حتى 6 تصاميم إعلانية مع فئات المنتجات والخلفيات والتأثيرات والظل والانعكاس",
+          "en": "Added Product Design studio to the Design menu: up to 6 advertising designs with product categories, backgrounds, effects, shadow and reflection"
+        },
+        {
+          "ar": "مساعد ذكي (Design Director) يفهم فكرتك بالعربي واللهجة المصرية ويضبط الإعدادات المناسبة تلقائياً",
+          "en": "Built-in Design Director understands your idea in Arabic and Egyptian dialect and applies the right settings automatically"
+        },
+        {
+          "ar": "معاينة ثلاثية الأبعاد للتصميم قبل إنشاء البرومبت",
+          "en": "3D preview of the design before generating the prompt"
+        }
+      ],
+      "details": {
+        "ar": "يعمل مساعد التصميم بالكامل داخل الإضافة دون إرسال أي بيانات إلى أي خدمة خارجية.",
+        "en": "The design assistant runs entirely inside the plugin without sending any data to external services."
+      }
+    },
     {
       "id": "v1-12-2",
       "version": "1.12.2",
