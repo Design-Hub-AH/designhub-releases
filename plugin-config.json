@@ -2,15 +2,47 @@
   "schema": 1,
   "feedbackUrl": "https://designhub-api.ahmedd-hamed97.workers.dev/api/feedback",
   "latest": {
-    "version": "1.12.3",
+    "version": "1.12.4",
     "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
     "force": false,
     "notes": {
-      "ar": "إصدار رسمي v1.12.3 يتضمن استوديو تصميم المنتجات الإعلانية مع مساعد ذكي يفهم العربي واللهجة المصرية، ومعاينة ثلاثية الأبعاد للتصميم قبل إنشاء البرومبت.",
-      "en": "Official release of Design Hub v1.12.3 featuring the new Product Advertising Design studio with an Arabic-speaking design assistant and 3D preview before prompt generation."
+      "ar": "إصدار رسمي v1.12.4 يتضمن التحديث التلقائي للإضافة من داخل فوتوشوب مع التحقق من التوقيع الرقمي للتحديثات، وإعادة إظهار شريط التنبيه بالتحديثات في نسخة UXP.",
+      "en": "Official release of Design Hub v1.12.4 with automatic in-plugin updates verified by digital signature, and the update notice bar restored for UXP."
     }
   },
   "updates": [
+    {
+      "id": "v1-12-4",
+      "version": "1.12.4",
+      "date": "2026-11-20",
+      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "title": {
+        "ar": "تحديث Design Hub v1.12.4",
+        "en": "Design Hub Update v1.12.4"
+      },
+      "summary": {
+        "ar": "تحديث تلقائي للإضافة من الداخل مع توقيع رقمي للتحقق، وإعادة شريط تنبيه التحديث لنسخة UXP.",
+        "en": "Automatic in-plugin updates with digital signature verification, and the update notice bar restored for UXP."
+      },
+      "features": [
+        {
+          "ar": "تحديث تلقائي من داخل الإضافة: فحص دوري وتنزيل صامت للتحديثات مع التحقق من التوقيع الرقمي قبل التثبيت",
+          "en": "Automatic in-plugin updates: periodic checks and silent downloads with digital signature verification before install"
+        },
+        {
+          "ar": "إعادة إظهار شريط التنبيه بالتحديث الجديد في نسخة UXP",
+          "en": "Update notice bar restored in the UXP build"
+        },
+        {
+          "ar": "صفحة تحديثات تعرض سجل الإصدارات وحالة الإصدار الحالي",
+          "en": "Updates page showing release history and current version status"
+        }
+      ],
+      "details": {
+        "ar": "لا يتم تثبيت أي تحديث تلقائياً إلا بعد التحقق من توقيعه الرقمي، وعند فشل التحقق يظهر رابط التحميل اليدوي فقط.",
+        "en": "No update is installed unless its digital signature verifies; on any failure only the manual download link is shown."
+      }
+    },
     {
       "id": "v1-12-3",
       "version": "1.12.3",
