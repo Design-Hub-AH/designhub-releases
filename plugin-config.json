@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "feedbackUrl": "https://designhub-api.ahmedd-hamed97.workers.dev/api/feedback",
+  "feedbackUrl": "https://sehlawy-api.ahmedd-hamed97.workers.dev/api/feedback",
   "latest": {
     "version": "1.12.5",
-    "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/tag/v1.12.5",
+    "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/tag/v1.12.5",
     "force": false,
     "notes": {
-      "ar": "إصدار رسمي v1.12.5: نقل إعدادات الإضافة وتحديثاتها إلى خادم Design Hub الجديد. تحديث موقّع يتم تثبيته تلقائياً من داخل فوتوشوب.",
-      "en": "Official release v1.12.5: moves panel config and updates to the new Design Hub server. Signed update installs automatically inside Photoshop."
+      "ar": "إصدار رسمي v1.12.5: نقل إعدادات الإضافة وتحديثاتها إلى خادم sehlawy الجديد. تحديث موقّع يتم تثبيته تلقائياً من داخل فوتوشوب.",
+      "en": "Official release v1.12.5: moves panel config and updates to the new sehlawy server. Signed update installs automatically inside Photoshop."
     },
     "auto": {
       "cep": {
-        "manifest": "https://designhub-api.ahmedd-hamed97.workers.dev/api/updates/manifest"
+        "manifest": "https://sehlawy-api.ahmedd-hamed97.workers.dev/api/updates/manifest"
       }
     }
   },
@@ -20,19 +20,19 @@
       "id": "v1-12-5",
       "version": "1.12.5",
       "date": "2026-11-20",
-      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/tag/v1.12.5",
+      "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/tag/v1.12.5",
       "title": {
-        "ar": "تحديث Design Hub v1.12.5",
-        "en": "Design Hub Update v1.12.5"
+        "ar": "تحديث sehlawy v1.12.5",
+        "en": "sehlawy Update v1.12.5"
       },
       "summary": {
-        "ar": "إصدار رسمي v1.12.5: نقل إعدادات الإضافة وتحديثاتها إلى خادم Design Hub الجديد. تحديث موقّع يتم تثبيته تلقائياً من داخل فوتوشوب.",
-        "en": "Official release v1.12.5: moves panel config and updates to the new Design Hub server. Signed update installs automatically inside Photoshop."
+        "ar": "إصدار رسمي v1.12.5: نقل إعدادات الإضافة وتحديثاتها إلى خادم sehlawy الجديد. تحديث موقّع يتم تثبيته تلقائياً من داخل فوتوشوب.",
+        "en": "Official release v1.12.5: moves panel config and updates to the new sehlawy server. Signed update installs automatically inside Photoshop."
       },
       "features": [
         {
-          "ar": "نقل إعدادات الإضافة وفحص التحديثات إلى خادم Design Hub الجديد",
-          "en": "Panel config and update checks moved to the new Design Hub server"
+          "ar": "نقل إعدادات الإضافة وفحص التحديثات إلى خادم sehlawy الجديد",
+          "en": "Panel config and update checks moved to the new sehlawy server"
         },
         {
           "ar": "التحديثات الموقّعة تُخدم الآن من الخادم مباشرة مع التحقق من التوقيع الرقمي قبل التثبيت",
@@ -48,10 +48,10 @@
       "id": "v1-12-4",
       "version": "1.12.4",
       "date": "2026-11-20",
-      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/latest",
       "title": {
-        "ar": "تحديث Design Hub v1.12.4",
-        "en": "Design Hub Update v1.12.4"
+        "ar": "تحديث sehlawy v1.12.4",
+        "en": "sehlawy Update v1.12.4"
       },
       "summary": {
         "ar": "تحديث تلقائي للإضافة من الداخل مع توقيع رقمي للتحقق، وإعادة شريط تنبيه التحديث لنسخة UXP.",
@@ -80,10 +80,10 @@
       "id": "v1-12-3",
       "version": "1.12.3",
       "date": "2026-11-20",
-      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/latest",
       "title": {
-        "ar": "تحديث Design Hub v1.12.3",
-        "en": "Design Hub Update v1.12.3"
+        "ar": "تحديث sehlawy v1.12.3",
+        "en": "sehlawy Update v1.12.3"
       },
       "summary": {
         "ar": "إضافة استوديو تصميم المنتجات الإعلانية مع مساعد ذكي بالعربي ومعاينة ثلاثية الأبعاد.",
@@ -112,10 +112,10 @@
       "id": "v1-12-2",
       "version": "1.12.2",
       "date": "2026-11-04",
-      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/latest",
       "title": {
-        "ar": "تحديث Design Hub v1.12.2",
-        "en": "Design Hub Update v1.12.2"
+        "ar": "تحديث sehlawy v1.12.2",
+        "en": "sehlawy Update v1.12.2"
       },
       "summary": {
         "ar": "إضافة باقة شراء البرنامج للأبد، وتصميم الباقات والعروض، وتحسينات الواجهة والتقييمات.",
@@ -154,10 +154,10 @@
       "id": "v1-12-1",
       "version": "1.12.1",
       "date": "2026-11-03",
-      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/latest",
       "title": {
-        "ar": "تحديث Design Hub v1.12.1",
-        "en": "Design Hub Update v1.12.1"
+        "ar": "تحديث sehlawy v1.12.1",
+        "en": "sehlawy Update v1.12.1"
       },
       "summary": {
         "ar": "إصلاح حقل وطول كود التفعيل وإظهار التنبيهات الفورية للمستخدم.",
@@ -192,10 +192,10 @@
       "id": "v1-12-0",
       "version": "1.12.0",
       "date": "2026-11-03",
-      "url": "https://github.com/Design-Hub-AH/designhub-releases/releases/latest",
+      "url": "https://github.com/sehlawy-releases-org/sehlawy-releases/releases/latest",
       "title": {
-        "ar": "تحديث Design Hub v1.12.0",
-        "en": "Design Hub Update v1.12.0"
+        "ar": "تحديث sehlawy v1.12.0",
+        "en": "sehlawy Update v1.12.0"
       },
       "summary": {
         "ar": "تحديث شامل لتسجيل الدخول وتوحيد الباقات على جهاز واحد وتثبيت الإضافات.",
